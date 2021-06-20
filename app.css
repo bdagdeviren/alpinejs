@@ -1,0 +1,26 @@
+body{
+    padding: 25px!important;
+    background-color: #1c1c1c!important;
+    font-family: "Roboto";
+    color: white!important;
+}
+
+.left{
+    text-align: left;
+}
+
+.center{
+    text-align: center;
+}
+
+.header{
+    margin-bottom: 0!important;
+    padding: 0 1rem 0 1rem!important;
+}
+
+.search-input{
+    border-color: #0dcaf0 !important;
+    margin-right: 5px;
+    background-color: transparent!important;
+    color: white!important;
+}
