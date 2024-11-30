@@ -13,7 +13,7 @@
     "@fontsource/roboto": "^4.4.5",
     "@ryangjchandler/spruce": "^2.7.1",
     "alpinejs": "^3.0.8",
-    "axios": "^1.6.8",
+    "axios": "^1.7.8",
     "bootstrap": "^5.0.1",
     "proxy-agent": "^5.0.0"
   },
