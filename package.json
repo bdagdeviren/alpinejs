@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@fontsource/roboto": "^4.4.5",
+    "@fontsource/roboto": "^4.5.8",
     "@ryangjchandler/spruce": "^2.7.1",
     "alpinejs": "^3.0.8",
     "axios": "^1.6.8",
