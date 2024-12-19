@@ -15,7 +15,7 @@
     "alpinejs": "^3.0.8",
     "axios": "^1.6.8",
     "bootstrap": "^5.0.1",
-    "proxy-agent": "^5.0.0"
+    "proxy-agent": "^6.5.0"
   },
   "devDependencies": {
     "parcel": "^2.0.0-beta.3.1"
